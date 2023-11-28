@@ -56,4 +56,10 @@ export const data: IData[] = [
     title: "Css Grid Generator",
     description: "Generador de sitemas de rejillas grid",
   },
+  {
+    id: 9,
+    link: "https://flowbite.com/",
+    title: "Flowbite twilwind",
+    description: "Componentes generados a partir de tailwind",
+  },
 ];
