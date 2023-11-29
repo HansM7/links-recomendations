@@ -4,7 +4,7 @@ import { data } from "./data";
 
 function IndexComponent() {
   return (
-    <div className="grid grid-cols-2 gap-4">
+    <div className="grid grid-cols-2 gap-4 pb-8">
       {data.map((item, index) => (
         <div
           className="rounded-xl p-4 flex flex-col justify-center text-center bg-slate-700 hover:bg-slate-800 transition-all text-white  "

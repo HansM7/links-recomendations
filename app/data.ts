@@ -59,7 +59,25 @@ export const data: IData[] = [
   {
     id: 9,
     link: "https://flowbite.com/",
-    title: "Flowbite twilwind",
+    title: "Flowbite tailwind",
     description: "Componentes generados a partir de tailwind",
+  },
+  {
+    id: 10,
+    link: "https://unicornicons.com",
+    title: "Unicornicons icons",
+    description: "Iconos animados",
+  },
+  {
+    id: 11,
+    link: "https://floatui.com/",
+    title: "Float UI",
+    description: "Elementos de interfaz de usuario de código abierto.",
+  },
+  {
+    id: 12,
+    link: "https://www.tailwindcss-animated.com",
+    title: "Tailwind Animated",
+    description: "Animaciones basadas en Tailwind ✨",
   },
 ];
