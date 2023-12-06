@@ -79,9 +79,17 @@ export const data: IData[] = [
     link: "https://www.tailwindcss-animated.com",
     title: "Tailwind Animated",
     description: "Animaciones basadas en Tailwind ✨",
-  },{
+  },
+  {
     id:12,
     link:"https://library.relume.io/",
     title:"Library Relume",
     description:"Frames para diseño"
+  },
+  {
+    id:13,
+    link:"https://screenshottocode.com/",
+    title:"Screenshot to code",
+    description:"Convierte capturas a codigo"
+  }
 ];
