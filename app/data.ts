@@ -91,5 +91,11 @@ export const data: IData[] = [
     link:"https://screenshottocode.com/",
     title:"Screenshot to code",
     description:"Convierte capturas a codigo"
+  },
+  {
+    id:14,
+    link:"https://jitter.video/",
+    title:"jitter video",
+    description:"animaciones UI"
   }
 ];
