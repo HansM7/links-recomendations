@@ -111,7 +111,13 @@ export const data: IData[] = [
     description:"Iconos en 3d"
   },
   {
-    link:"app.runwayml.com"
+    link:"app.runwayml.com",
     title:"Runwayml",
     description:"Anima secciones de una imagen"
+  },
+  {
+    link:"https://devchallenges.io/",
+    title:"devChallenges",
+    description:"Retos frontend"
+  }
 ];
