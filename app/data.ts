@@ -97,5 +97,11 @@ export const data: IData[] = [
     link:"https://jitter.video/",
     title:"jitter video",
     description:"animaciones UI"
+  },
+  {
+    id:15,
+    link:"https://atroposjs.com/",
+    title:"Artropojs",
+    description:"Efecto 3d landing page"
   }
 ];
