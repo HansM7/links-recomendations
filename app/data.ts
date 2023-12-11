@@ -103,5 +103,12 @@ export const data: IData[] = [
     link:"https://atroposjs.com/",
     title:"Artropojs",
     description:"Efecto 3d landing page"
-  }
+  },
+  {
+    id:16,
+    link:"https://3dicons.co/",
+    title:"3dicons",
+    description:"Iconos en 3d"
+  },
+  
 ];
