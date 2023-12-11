@@ -119,5 +119,10 @@ export const data: IData[] = [
     link:"https://devchallenges.io/",
     title:"devChallenges",
     description:"Retos frontend"
+  },
+  {
+    link:"https://neumorphism.io/",
+    title:"neumorphism",
+    description:"Generador sombras 3d"
   }
 ];
