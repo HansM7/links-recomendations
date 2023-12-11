@@ -9,49 +9,41 @@ interface IData {
 
 export const data: IData[] = [
   {
-    id: 1,
     link: "https://medusajs.com/",
     title: "MedusaJS",
     description: "Plugin orientado a ecommerce",
   },
   {
-    id: 2,
     link: "https://skeletonreact.com",
     title: "Skeleton",
     description: "Efectos de carga para tus aplicaciones",
   },
   {
-    id: 3,
     link: "https://uicolors.app/create",
     title: "Tailwind UI",
     description: "Tailwind CSS Color Generator",
   },
   {
-    id: 4,
     link: "https://www.phind.com/",
     title: "Phin AI",
     description: "Parecido a chatgpt pero mejor",
   },
   {
-    id: 5,
     link: "https://ui.shadcn.com/",
     title: "Shadcn UI",
     description: "UI para aplicaciones basadas en Tailwind",
   },
   {
-    id: 6,
     link: "https://app.edutin.com/",
     title: "Edutin Academy",
     description: "Pagina de cursos online",
   },
   {
-    id: 7,
     link: "https://uiverse.io/",
     title: "UIverse.io",
     description: "Elementos de interfaz de usuario de código abierto.",
   },
   {
-    id: 8,
     link: "https://cssgrid-generator.netlify.app/",
     title: "Css Grid Generator",
     description: "Generador de sitemas de rejillas grid",
@@ -63,7 +55,6 @@ export const data: IData[] = [
     description: "Componentes generados a partir de tailwind",
   },
   {
-    id: 10,
     link: "https://unicornicons.com",
     title: "Unicornicons icons",
     description: "Iconos animados",
@@ -81,31 +72,26 @@ export const data: IData[] = [
     description: "Animaciones basadas en Tailwind ✨",
   },
   {
-    id:12,
     link:"https://library.relume.io/",
     title:"Library Relume",
     description:"Frames para diseño"
   },
   {
-    id:13,
     link:"https://screenshottocode.com/",
     title:"Screenshot to code",
     description:"Convierte capturas a codigo"
   },
   {
-    id:14,
     link:"https://jitter.video/",
     title:"jitter video",
     description:"animaciones UI"
   },
   {
-    id:15,
     link:"https://atroposjs.com/",
     title:"Artropojs",
     description:"Efecto 3d landing page"
   },
   {
-    id:16,
     link:"https://3dicons.co/",
     title:"3dicons",
     description:"Iconos en 3d"
@@ -124,5 +110,10 @@ export const data: IData[] = [
     link:"https://neumorphism.io/",
     title:"neumorphism",
     description:"Generador sombras 3d"
+  },
+  {
+    link:"https://app.haikei.app/",
+    title:"haikeiapp",
+    description:"fondos fanpage estaticos"
   }
 ];
