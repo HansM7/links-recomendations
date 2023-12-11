@@ -120,5 +120,11 @@ export const data: IData[] = [
     link:"https://web-check.xyz/",
     title:"web-check",
     description:"Información de páginas"
+  },
+  {
+    link:"https://react-select.com/home",
+    title:"reac-select",
+    description:"Elementos select dinámicos"
   }
+  
 ];
