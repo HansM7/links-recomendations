@@ -115,5 +115,10 @@ export const data: IData[] = [
     link:"https://app.haikei.app/",
     title:"haikeiapp",
     description:"fondos fanpage estaticos"
+  },
+  {
+    link:"https://web-check.xyz/",
+    title:"web-check",
+    description:"Información de páginas"
   }
 ];
