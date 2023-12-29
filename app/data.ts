@@ -125,6 +125,10 @@ export const data: IData[] = [
     link:"https://react-select.com/home",
     title:"reac-select",
     description:"Elementos select dinámicos"
+  },{
+    link:"https://react.keepdesign.io/",
+    title:"ReactKeepDesign",
+    description:"UI components para react"
   }
   
 ];
