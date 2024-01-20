@@ -133,6 +133,10 @@ export const data: IData[] = [
     link:"https://park-ui.com/",
     title:"Park ui",
     description:"UI components"
+  },{
+    link:"https://www.linears.art/",
+    title:"LinearArts",
+    description:"Modelos de paginas web"
   }
   
 ];
