@@ -137,6 +137,10 @@ export const data: IData[] = [
     link:"https://www.linears.art/",
     title:"LinearArts",
     description:"Modelos de paginas web"
+  },{
+    link:"https://ui.aceternity.com/components",
+    title:"ui.aceternity.com",
+    description:"Plantillas basadasen tailwind"
   }
   
 ];
