@@ -141,6 +141,10 @@ export const data: IData[] = [
     link:"https://ui.aceternity.com/components",
     title:"ui.aceternity.com",
     description:"Plantillas basadasen tailwind"
+  },{
+    link:"https://www.tailframes.com/",
+    title:"Tailframe",
+    description:"UI Tailwind components"
   }
   
 ];
