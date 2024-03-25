@@ -145,6 +145,10 @@ export const data: IData[] = [
     link:"https://www.tailframes.com/",
     title:"Tailframe",
     description:"UI Tailwind components"
+  },{
+    link:"https://nextui.org/",
+    "title":"NextUI",
+    "description":"UI Next components"
   }
   
 ];
