@@ -147,8 +147,12 @@ export const data: IData[] = [
     description:"UI Tailwind components"
   },{
     link:"https://nextui.org/",
-    "title":"NextUI",
-    "description":"UI Next components"
+    title:"NextUI",
+    description:"UI Next components"
+  },{
+    link:"https://shuffle.dev/marketplace",
+    title:"Shuffle dev",
+    description:"Web para crear interfaces generales de pago",
   }
   
 ];
