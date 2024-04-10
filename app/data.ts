@@ -153,6 +153,10 @@ export const data: IData[] = [
     link:"https://shuffle.dev/marketplace",
     title:"Shuffle dev",
     description:"Web para crear interfaces generales de pago",
+  },{
+    link:"https://svgl.vercel.app/",
+    title:"SVGL",
+    description:"Svg de plataformas"
   }
   
 ];
