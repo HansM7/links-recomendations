@@ -160,7 +160,7 @@ export const data: IData[] = [
   },{
     link:"https://www.tremor.so/",
     title:"Tremor",
-    Description:"Componentes basados en react y tailwind para dashboards"
+    description:"Componentes basados en react y tailwind para dashboards"
   }
   
 ];
