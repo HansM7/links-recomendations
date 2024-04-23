@@ -169,6 +169,10 @@ export const data: IData[] = [
     link:"https://turso.tech/",
     title:"Turso DB",
     description:"Base de datos en la nube basado en sqlite"
+  },{
+    link:"https://coolors.co/",
+    title:"Coolors co",
+    description:"Generador de colores en base a combinaciones"
   }
   
 ];
