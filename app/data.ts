@@ -161,6 +161,14 @@ export const data: IData[] = [
     link:"https://www.tremor.so/",
     title:"Tremor",
     description:"Componentes basados en react y tailwind para dashboards"
+  },{
+    link:"https://scroll-driven-animations.style/",
+    title:"Scroll animations",
+    description:"Animaciones de componentes con scroll"
+  },{
+    link:"https://turso.tech/",
+    title:"Turso DB",
+    description:"Base de datos en la nube basado en sqlite"
   }
   
 ];
