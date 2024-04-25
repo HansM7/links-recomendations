@@ -173,6 +173,10 @@ export const data: IData[] = [
     link:"https://coolors.co/",
     title:"Coolors co",
     description:"Generador de colores en base a combinaciones"
+  },{
+    link:"https://www.pexels.com/",
+    title:"Pexels",
+    description:"Pagina donde encontraras recursos de imagenes y videos en alta calidad"
   }
   
 ];
