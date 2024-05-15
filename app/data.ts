@@ -177,6 +177,10 @@ export const data: IData[] = [
     link:"https://www.pexels.com/",
     title:"Pexels",
     description:"Pagina donde encontraras recursos de imagenes y videos en alta calidad"
+  },{
+    link:"https://visgl.github.io/react-map-gl/",
+    title:"React Map",
+    description:"Pagina de mapas en 3D"
   }
   
 ];
