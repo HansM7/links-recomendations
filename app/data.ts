@@ -195,6 +195,13 @@ export const data: IData[] = [
     title:"Spline 3D",
     description:"Generacion de formas 3D"
   },
+  {
+    link:"https://magicui.design/",
+    title:"Magicui",
+    description:"Componentes Web"
+  },
+
+  
 
   
   
