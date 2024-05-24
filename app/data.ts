@@ -181,6 +181,14 @@ export const data: IData[] = [
     link:"https://visgl.github.io/react-map-gl/",
     title:"React Map",
     description:"Pagina de mapas en 3D"
+  },{
+    link:"https://uvcanvas.com/",
+    title:"UVCannvas",
+    description:"Pagina de imagenes para banners en movimiento"
+  },{
+    link:"https://atroposjs.com/docs/react",
+    title:"Atrotosjs",
+    description:"Animacion 3D banner"
   }
   
 ];
