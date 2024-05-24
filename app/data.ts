@@ -189,6 +189,13 @@ export const data: IData[] = [
     link:"https://atroposjs.com/docs/react",
     title:"Atrotosjs",
     description:"Animacion 3D banner"
-  }
+  },
+  {
+    link:"https://app.spline.design/",
+    title:"Spline 3D",
+    description:"Generacion de formas 3D"
+  },
+
+  
   
 ];
