@@ -200,6 +200,11 @@ export const data: IData[] = [
     title:"Magicui",
     description:"Componentes Web"
   },
+  {
+    link:"https://flyonui.com/",
+    title:"flyonui",
+    description:"Componentes tailwind"
+  }
 
   
 
