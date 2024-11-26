@@ -204,6 +204,10 @@ export const data: IData[] = [
     link:"https://flyonui.com/",
     title:"flyonui",
     description:"Componentes tailwind"
+  },{
+    link:"https://originui.com/",
+    title:"Origin UI",
+    description:"Componentes basados en tailwind y shadcn"
   }
 
   
